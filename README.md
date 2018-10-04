@@ -2,7 +2,8 @@
 
 # Library for driving Lixie edge-lit displays!
 
-This library allows for easy writing to Lixie Panels! It takes care of all the addressing and updating for you!
+This library is a simple port of the Lixie display boards to be used with a PIC18F4450 instead of an arduino chipset.
+Is written using XC18
 
 ----------
 # Contents
